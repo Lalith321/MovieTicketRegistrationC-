@@ -1,0 +1,3 @@
+﻿  code.cpp
+D:\practice\C++PacticeProblems\MovieTicketRegistration\code.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+  MovieTicketRegistration.vcxproj -> D:\practice\C++PacticeProblems\MovieTicketRegistration\Debug\MovieTicketRegistration.exe

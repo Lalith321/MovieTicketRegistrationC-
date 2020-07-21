@@ -1,0 +1,2 @@
+D:\practice\C++PacticeProblems\MovieTicketRegistration\Debug\MovieTicketRegistration.exe
+D:\practice\C++PacticeProblems\MovieTicketRegistration\Debug\MovieTicketRegistration.pdb
